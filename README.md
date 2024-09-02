@@ -6,4 +6,5 @@ Customize Path and Name.
 
 copy UpdateHA.sh to Qnap 
 and run with
-sudo ./UpdateHA.sh
+
+#sudo ./UpdateHA.sh
